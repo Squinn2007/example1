@@ -52,8 +52,8 @@
 
   <nav class="flex flex-col px-20 mt-56 w-full max-md:px-5 max-md:mt-10">
     <div class="flex gap-5 justify-between ml-14 max-w-full text-3xl text-center text-white whitespace-nowrap w-[437px] max-md:flex-col max-md:ml-0">
-      <button href="example.test/jobs" class="px-11 py-3 bg-orange-500 rounded-3xl max-md:px-5 max-md:mb-3">aanmelden</button>
-      <button class="px-11 py-3 bg-orange-500 rounded-3xl max-md:px-5">bekijk cv's</button>
+      <button href="example.test/jobs" class="w-full sm:w-auto px-8 md:px-12 py-3 bg-orange-500 hover:bg-orange-600 focus:ring-2 focus:ring-orange-500 focus:ring-offset-2 text-white text-xl md:text-3xl rounded-3xl transition-colors">aanmelden</button>
+      <button class="w-full sm:w-auto px-8 md:px-12 py-3 bg-orange-500 hover:bg-orange-600 focus:ring-2 focus:ring-orange-500 focus:ring-offset-2 text-white text-xl md:text-3xl rounded-3xl transition-colors">bekijk cv's</button>
     </div>
 
     <section class="mt-48 max-md:mt-10">
